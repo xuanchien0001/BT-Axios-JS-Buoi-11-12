@@ -1,7 +1,7 @@
 1. Tạo API "quản lý người dùng" trên MockAPI 
 2. Chuyển phần danh sách Teacher của trang "Our Teach" (Bài tập phần SASS) sang dữ liệu động
 3. Sử dụng Axios để lấy Danh sách người dùng từ API
-4. Có 2 loại người dùng là GV và HV. Chỉ hiện loại người dùng GV lên trang "Our Teach“
+4. Có 2 loại người dùng là GV và HV. Chỉ hiện loại người dùng GV lên trang "Our Teach“            
 => Đáp án: https://github.com/xuanchien0001/our_team_api
 
 
