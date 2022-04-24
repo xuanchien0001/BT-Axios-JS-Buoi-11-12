@@ -5,13 +5,11 @@
 => Đáp án: https://github.com/xuanchien0001/our_team_api
 
 
-5. Sử dụng Axios để xây dựng các chức năng cho admin (hiện danh sách, thêm, xóa, cập nhật
-người dùng) - Link layout admin
+5. Sử dụng Axios để xây dựng các chức năng cho admin (hiện danh sách, thêm, xóa, cập nhật người dùng)
 6. Validation:
 • Tài Khoản (username): không được để trống, không được trùng
 • Họ tên: không được để trống, không chứa số và ký tự đặc biệt
-• Mật khẩu: không được để trống, dúng format (có ít nhất 1 ký tự hoa, 1 ký tự đặc biệt, 1 ký tự
-số, độ dài 6-8)
+• Mật khẩu: không được để trống, dúng format (có ít nhất 1 ký tự hoa, 1 ký tự đặc biệt, 1 ký tự số, độ dài 6-8)
 • Email: không được để trống, đúng format email
 • Hinh anh: không được để trống
 • Loại người dùng: phải chọn
