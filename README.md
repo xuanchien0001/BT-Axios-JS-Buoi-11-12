@@ -15,4 +15,4 @@
 • Loại người dùng: phải chọn
 • Loại ngôn ngữ: phải chọn
 • Mô tả: không được để trống, không vượt quá 60 ký tự
-=> Đáp án: 
+=> Đáp án: https://github.com/xuanchien0001/bt-buoi-25-26-ajax
